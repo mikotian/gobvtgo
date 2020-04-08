@@ -1,0 +1,4 @@
+bvttest1;/tickets/atob/mismatchcount?MismatchDataDays=14
+bvttest2;/tickets/atob/mismatchdetails?MismatchDataDays=14
+bvttest3;/tickets/btoa/mismatchcount?MismatchDataDays=14
+bvttest4;/tickets/btoa/mismatchdetails?MismatchDataDays=14
